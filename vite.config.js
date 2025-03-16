@@ -5,5 +5,5 @@ export default defineConfig({
 	plugins: [
 		react()
 	],
-	base:"assembly-endgame",
+	base:"/assembly-endgame",
 });
