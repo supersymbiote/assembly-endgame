@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started
 Install the dependencies and run the project
 ```
@@ -17,3 +18,6 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+=======
+# react-apps
+>>>>>>> 8833f2e65bf253c51596a6cae2cdcbe5d4fd7f37
